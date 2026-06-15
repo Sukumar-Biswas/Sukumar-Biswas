@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sukumar Biswas 👋
 
-<!--
-**Sukumar-Biswas/Sukumar-Biswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Lyricist & Screenplay Writer | Content Creator | AI Trainer | Hindi Language Specialist | Transcription & Annotation
 
-Here are some ideas to get you started:
+I work with Hindi, Bengali, and English language projects, focusing on AI data evaluation, transcription, annotation, and linguistic tasks. I work as a Hindi Script Writer as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Hindi Transcription
+- English ↔ Hindi Translation
+- Linguistic Annotation
+- AI Data Evaluation
+- Content Writing
+- Creative Writing (Lyrics & Screenplays)
+
+## Languages
+- Hindi
+- Bengali
+- English
+
+## Interests
+- Artificial Intelligence
+- AI Training Data
+- Hindi Transcription
+- Language Technology
+- Creative Writing
+- Lyrics Writing
+- Screenplay Writing
